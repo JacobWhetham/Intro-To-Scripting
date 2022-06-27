@@ -50,7 +50,6 @@ def load_level(player_pos):
                 print("The man places a mysterious glowing potion before you.")
                 print("'Gather yourself and grow stronger before you tackle him again.'")
                 print("The man begins to crumble into a fine ash.")
-                print("'To not get lost, ensure to always face the same direction as before.' the man quips as the dust dissipates.")
                 print("You see a wooden door to your north.")
 
                 # Update dialogue checkpoint to prevent replaying the same dialogue on reentry.
